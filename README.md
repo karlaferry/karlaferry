@@ -1,4 +1,5 @@
-![karlacodes header](header.png)
+![karlacodes header](darkmode.png#gh-dark-mode-only)
+![karlacodes header](lightmode.png#gh-light-mode-only)
 
 ## 👋🏼 Hello there! 
 
