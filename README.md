@@ -1,7 +1,7 @@
 ![karlacodes header](darkmode.png#gh-dark-mode-only)
 ![karlacodes header](lightmode.png#gh-light-mode-only)
 
-## 👋🏼 Hello there! 
+## 👋🏼 Hello there!
 
 My name is **Karla** and I'm a trainee software developer at [Northcoders](http://northcoders.com), and I like building things.
 
