@@ -1,5 +1,6 @@
-![karlacodes header](darkmode.png#gh-dark-mode-only)
-![karlacodes header](lightmode.png#gh-light-mode-only)
+![karlacodes header](headers/darkmode.png#gh-dark-mode-only)
+![karlacodes header](headers/lightmode.png#gh-light-mode-only)
+
 
 ## 👋🏼 Hello there!
 
@@ -23,6 +24,6 @@ I started self-teaching in May 2021 and enrolled at Northcoders in October of th
 - **Version Control**: Git
 
 ## ➡️ Reach me!
-[LinkedIn](http://linkedin.com/in/karla-carreon)   |   [Medium](http://medium.com/@karlacodes)   |   [Twitter](http://twitter.com/karlacodes)   |   [Email](mailto:carreon.karlamaye@gmail.com)
+[![LinkedIn](socials/linkedin.png)](http://linkedin.com/in/karla-carreon)   |   [Medium](http://medium.com/@karlacodes)   |   [Twitter](http://twitter.com/karlacodes)   |   [Email](mailto:carreon.karlamaye@gmail.com)
 
 -------
