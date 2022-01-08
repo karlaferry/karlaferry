@@ -24,3 +24,5 @@ I started self-teaching in May 2021 and enrolled at Northcoders in October of th
 
 ## ➡️ Reach me!
 [LinkedIn](http://linkedin.com/in/karla-carreon)   |   [Medium](http://medium.com/@karlacodes)   |   [Twitter](http://twitter.com/karlacodes)   |   [Email](mailto:carreon.karlamaye@gmail.com)
+
+-------
