@@ -3,7 +3,7 @@
 
 ## 👋🏼 Hello there!
 
-My name is **Karla** and I'm a trainee software developer at [Northcoders](http://northcoders.com), and I like building things.
+My name is **Karla** (Ferry socially, Carreon legally) and I'm a trainee software developer at [Northcoders](http://northcoders.com), and I like building things.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
