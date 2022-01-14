@@ -8,7 +8,7 @@ My name is **Karla** (*Ferry socially, Carreon legally*) and I'm a trainee softw
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: The House in the Cerulean Sea by TJ Klune
+- 📚 **Currently Reading**: The House in the Cerulean Sea by TJ Klune / The Power of Habit by Charles Duhigg
 - 🎮 **Currently Playing**: The Graveyard Keeper
 - 📺 **Currently Watching**: The Office (US)
 
