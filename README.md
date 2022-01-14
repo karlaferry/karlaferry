@@ -23,6 +23,11 @@ I started self-teaching in May 2021 and enrolled at Northcoders in October of th
 - **Testing**: Jest, Supertest
 - **Version Control**: Git
 
+## ⚙️ Currently Working On
+- Finishing the frontend for my Gamers of the North API.
+- Improving and refactoring old projects.
+- Taking a CSS course by Kevin Powell.
+
 ## ➡️ Reach me!
 [<img src="socials/linkedin.png" width="50" height="50">](http://linkedin.com/in/karla-carreon)   [<img src="socials/medium.png" width="50" height="50">](http://medium.com/@karlacodes)   [<img src="socials/twitter.png" width="50" height="50">](http://twitter.com/karlacodes)   [<img src="socials/gmail.png" width="50" height="50">](mailto:carreon.karlamaye@gmail.com)
 
