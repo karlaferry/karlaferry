@@ -7,7 +7,7 @@ My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a trainee softw
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: Children of TIme by Adrian Tchaikovsky
+- 📚 **Currently Reading**: Children of Time by Adrian Tchaikovsky
 - 🎮 **Currently Playing**: _scouting for next game!_
 - 📺 **Currently Watching**: The Office (US)
 
