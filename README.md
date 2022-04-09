@@ -25,9 +25,8 @@ I started self-teaching in May 2021 and enrolled at Northcoders in October of th
 
 ## ⚙️ Currently Working On
 
-- Finishing the frontend for my Gamers of the North API.
-- Improving and refactoring old projects.
-- Taking a CSS course by Kevin Powell.
+- Building a birthday app
+- Learning Python
 
 ## ➡️ Reach me!
 
