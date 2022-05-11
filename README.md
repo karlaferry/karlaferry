@@ -3,17 +3,19 @@
 
 ## 👋🏼 Hello there!
 
-My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a trainee software developer at [Northcoders](http://northcoders.com), and I like building things.
+My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a Junior Software Engineer & Mentor at [Northcoders](http://northcoders.com), and I like building things.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: Children of Time by Adrian Tchaikovsky
+- 📚 **Currently Reading**: Tender is the Flesh by Agustina Bazterrica
 - 🎮 **Currently Playing**: _scouting for next game!_
 - 📺 **Currently Watching**: The Office (US)
 
 ## 💻 Coding Journey
 
-I started self-teaching in May 2021 and enrolled at Northcoders in October of the same year. I've always been passionate about the tech field and building things through coding, and I can't wait to learn more technologies and be able to build more cool things.
+I started self-teaching in May 2021, enrolled at Northcoders in October of the same year and completed it in February 2022.
+
+I've always been passionate about the tech field and building things through coding, and I can't wait to learn more technologies and be able to build more cool things.
 
 ### ✨ Current Tech Skills
 
@@ -25,8 +27,8 @@ I started self-teaching in May 2021 and enrolled at Northcoders in October of th
 
 ## ⚙️ Currently Working On
 
-- Building a birthday app
-- Learning Python
+- Building a birthday app using Firebase Realtime Database, Auth, and Storage
+  – Learning Gatsby
 
 ## ➡️ Reach me!
 
