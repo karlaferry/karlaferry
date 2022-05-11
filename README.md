@@ -28,7 +28,7 @@ I've always been passionate about the tech field and building things through cod
 ## ⚙️ Currently Working On
 
 - Building a birthday app using Firebase Realtime Database, Auth, and Storage
-  – Learning Gatsby
+- Learning Gatsby
 
 ## ➡️ Reach me!
 
