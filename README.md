@@ -3,13 +3,13 @@
 
 ## 👋🏼 Hello there!
 
-My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a Junior Software Engineer & Mentor at [Northcoders](http://northcoders.com), and I like building things.
+My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a Junior Developer at [SaleCycle](https://www.salecycle.com/), and I like building things.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: The Colour of Magic by Terry Pratchett
+- 📚 **Currently Reading**: The Life Changing Magic of Tidying Up by Marie Kondo
 - 🎮 **Currently Playing**: _Horizon: Zero Dawn_
-- 📺 **Currently Watching**: Just finished The Boys!
+- 📺 **Currently Watching**: You (the show You on Netflix, not you _you_, that would be creepy)
 
 ## 💻 Coding Journey
 
@@ -19,7 +19,7 @@ I've always been passionate about the tech field and building things through cod
 
 ### ✨ Current Tech Skills
 
-- **Language/s**: Javascript
+- **Language/s**: JavaScript, TypeScript
 - **Frontend**: ReactJS, HTML5, CSS3
 - **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs
 - **Testing**: Jest, Supertest
@@ -27,9 +27,7 @@ I've always been passionate about the tech field and building things through cod
 
 ## ⚙️ Currently Working On
 
-- Building a birthday app using Firebase Realtime Database, Auth, and Storage
-- Learning Typescript
-- Learning how to use Frontity, a ReactJS framework that uses Wordpress CMS (desperate to build my own blog!)
+- Planning a new project!
 
 ## ➡️ Reach me!
 
