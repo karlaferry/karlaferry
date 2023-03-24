@@ -1,7 +1,7 @@
-![karlacodes header](headers/darkmode.png#gh-dark-mode-only)
-![karlacodes header](headers/lightmode.png#gh-light-mode-only)
+<!-- ![karlacodes header](headers/darkmode.png#gh-dark-mode-only) -->
+<!-- ![karlacodes header](headers/lightmode.png#gh-light-mode-only) -->
 
-## 👋🏼 Hello there!
+# 👋🏼 Hello there!
 
 My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a Junior Developer at [SaleCycle](https://www.salecycle.com/), and I like building things.
 
