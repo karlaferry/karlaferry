@@ -3,13 +3,13 @@
 
 # 👋🏼 Hello there!
 
-My name is **Karla** (_Ferry socially, Carreon legally_) and I'm a Junior Developer at [SaleCycle](https://www.salecycle.com/), and I like building things.
+My name is **Karla** (she/they) and I'm a Junior Developer at [SaleCycle](https://www.salecycle.com/), and I like building things.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: The Life Changing Magic of Tidying Up by Marie Kondo
-- 🎮 **Currently Playing**: _Horizon: Zero Dawn_
-- 📺 **Currently Watching**: You (the show You on Netflix, not you _you_, that would be creepy)
+- 📚 **Currently Reading**: Throne of Glass Series by Sarah J Maas
+- 🎮 **Currently Playing**: Palworld, Baldur's Gate 3
+- 📺 **Currently Watching**: _(none at the minute, recommendations welcome!)_
 
 ## 💻 Coding Journey
 
@@ -20,7 +20,7 @@ I've always been passionate about the tech field and building things through cod
 ### ✨ Current Tech Skills
 
 - **Language/s**: JavaScript, TypeScript
-- **Frontend**: ReactJS, HTML5, CSS3
+- **Frontend**: ReactJS, NextJS, HTML5, CSS3
 - **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs
 - **Testing**: Jest, Supertest
 - **Version Control**: Git, GitHub
