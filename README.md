@@ -3,12 +3,12 @@
 
 # 👋🏼 Hello there!
 
-My name is **Karla** (she/they) and I'm a Junior Developer at [SaleCycle](https://www.salecycle.com/), and I like building things.
+My name is **Karla** and I'm a full-stack software engineer.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: Throne of Glass Series by Sarah J Maas
-- 🎮 **Currently Playing**: Palworld, Baldur's Gate 3
+- 📚 **Currently Reading**: TThe Well of Ascension by Brandond Sanderson
+- 🎮 **Currently Playing**: League of Legends
 - 📺 **Currently Watching**: _(none at the minute, recommendations welcome!)_
 
 ## 💻 Coding Journey
@@ -22,7 +22,7 @@ I've always been passionate about the tech field and building things through cod
 - **Language/s**: JavaScript, TypeScript
 - **Frontend**: ReactJS, NextJS, HTML5, CSS3
 - **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs
-- **Testing**: Jest, Supertest
+- **Testing**: Jest, Supertest, Cypress
 - **Version Control**: Git, GitHub
 
 ## ⚙️ Currently Working On
