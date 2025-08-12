@@ -7,9 +7,9 @@ My name is **Karla** and I'm a full-stack software engineer.
 
 When I'm not coding, I'm either reading a book, playing something on my Nintendo Switch, or bingeing something on Netflix. I'm a huge fan of occasional naps as well. 💤
 
-- 📚 **Currently Reading**: TThe Well of Ascension by Brandond Sanderson
-- 🎮 **Currently Playing**: League of Legends
-- 📺 **Currently Watching**: _(none at the minute, recommendations welcome!)_
+- 📚 **Currently Reading**: Never Let Me Go by Kazuo Ishiguro
+- 🎮 **Currently Playing**: Horizon Zero Dawn
+- 📺 **Currently Watching**: The Summer Hikaru Died
 
 ## 💻 Coding Journey
 
@@ -21,7 +21,7 @@ I've always been passionate about the tech field and building things through cod
 
 - **Language/s**: JavaScript, TypeScript
 - **Frontend**: ReactJS, NextJS, HTML5, CSS3
-- **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs
+- **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs, AWS
 - **Testing**: Jest, Supertest, Cypress
 - **Version Control**: Git, GitHub
 
